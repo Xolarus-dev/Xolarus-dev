@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Xolarus
 
-<!--
-**Xolarus-dev/Xolarus-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning programming and cybersecurity, and building small projects along the way.
 
-Here are some ideas to get you started:
+## What I work with
+- **Languages:** Lua, C++, Python
+- **Focus:** cybersecurity
+- **Environment:** Kali Linux, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+- 🎮 Lua scripts for SAMP / MoonLoader: see [samp-lua-scripts](https://github.com/Xolarus-dev/SAMP)
+- More projects (C++, security) coming soon
+
+## Goals
+Building a portfolio of real projects and growing into a developer / security specialist.
+
+## Contact
+Soon
