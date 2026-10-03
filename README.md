@@ -27,4 +27,4 @@
 </div>
 
 ## 📫 Contact
-<!-- твоя ссылка на Telegram или почта -->
+Xolarus@proton.me
