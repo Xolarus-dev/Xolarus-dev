@@ -8,7 +8,7 @@ I'm learning programming and cybersecurity, and building small projects along th
 - **Environment:** Kali Linux, VS Code
 
 ## What I'm building
-- 🎮 Lua scripts for SAMP / MoonLoader: see [samp-lua-scripts](https://github.com/Xolarus-dev/SAMP)
+- 🎮 Lua scripts for SAMP / MoonLoader: see [samp](https://github.com/Xolarus-dev/SAMP)
 - More projects (C++, security) coming soon
 
 ## Goals
