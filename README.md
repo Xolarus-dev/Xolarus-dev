@@ -1,18 +1,30 @@
-# Hi, I'm Xolarus
+<div align="center">
 
-I'm learning programming and cybersecurity, and building small projects along the way.
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Xolarus&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-## What I work with
-- **Languages:** Lua, C++, Python
-- **Focus:** cybersecurity
-- **Environment:** Kali Linux, VS Code
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+cybersecurity;Writing+Lua+scripts+for+SAMP;Studying+C%2B%2B+%26+Python)](https://github.com/Xolarus-dev)
 
-## What I'm building
-- 🎮 Lua scripts for SAMP / MoonLoader: see [samp](https://github.com/Xolarus-dev/SAMP)
-- More projects (C++, security) coming soon
+</div>
 
-## Goals
-Building a portfolio of real projects and growing into a developer / security specialist.
+## 🧰 Tech
 
-## Contact
-Soon
+<div align="center">
+
+![Lua](https://skillicons.dev/icons?i=lua,cpp,py,bash,linux,vscode,git)
+
+</div>
+
+## 🚀 Projects
+
+- 🎮 [SAMP](https://github.com/Xolarus-dev/SAMP): Lua scripts, C++ plugins and fixes for SAMP
+
+## 📊 Stats
+
+<div align="center">
+
+![stats](https://github-readme-stats.vercel.app/api?username=Xolarus-dev&show_icons=true&theme=tokyonight)
+
+</div>
+
+## 📫 Contact
+<!-- твоя ссылка на Telegram или почта -->
