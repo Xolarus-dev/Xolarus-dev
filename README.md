@@ -2,29 +2,31 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Xolarus&fontSize=60&fontColor=ffffff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Learning+cybersecurity;Writing+Lua+scripts+for+SAMP;Studying+C%2B%2B+%26+Python)](https://github.com/Xolarus-dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C%2B%2B+%7C+Reverse+Engineering;Low-level+security;Learning+in+public)](https://github.com/Xolarus-dev)
 
 </div>
 
-## 🧰 Tech
+## 🎯 Current focus
+A 90-day path into low-level security: **C++ → reverse engineering → networking (RakNet)**.
+I publish everything I build and write up along the way.
 
+## 🗺️ Roadmap
+- [ ] **Weeks 1–4:** C++ fundamentals (loops, functions, arrays, strings)
+- [ ] **Weeks 3–6:** pointers and memory, reading my own programs in a disassembler
+- [ ] **Weeks 6–10:** assembly basics, beginner crackme write-ups
+- [ ] **Weeks 10–13:** networking, a small client/server project with RakNet
+
+## 📁 Projects
+- [SAMP](https://github.com/Xolarus-dev/SAMP): early Lua scripts (MoonLoader)
+- `cpp-practice`: C++ exercises *(coming soon)*
+- `reverse-writeups`: reverse engineering write-ups *(coming soon)*
+
+## 🧰 Tools
 <div align="center">
 
-![Lua](https://skillicons.dev/icons?i=lua,cpp,py,bash,linux,vscode,git)
+![tools](https://skillicons.dev/icons?i=cpp,py,lua,bash,linux,git,vscode)
 
 </div>
 
-## 🚀 Projects
-
-- 🎮 [SAMP](https://github.com/Xolarus-dev/SAMP): Lua scripts, C++ plugins and fixes for SAMP
-
-## 📊 Stats
-
-<div align="center">
-
-![stats](https://github-readme-stats.vercel.app/api?username=Xolarus-dev&show_icons=true&theme=tokyonight)
-
-</div>
-
-## 📫 Contact 
-Xolarus@proton.me
+## 🧪 Rules I follow
+Legal practice only: my own programs, practice challenges and my own test setups.
