@@ -8,18 +8,23 @@
 
 ## 🎯 Current focus
 A 90-day path into low-level security: **C++ → reverse engineering → networking (RakNet)**.
-I publish everything I build and write up along the way.
+I publish what I build and write up along the way.
+
+## ✅ Progress
+- Solved my first crackme on [crackmes.one](https://crackmes.one/user/Xolarus) (difficulty 1, static analysis in Ghidra)
+- Wrote small C++ console programs, including my own practice crackme
+- Early Lua scripts for MoonLoader: see [SAMP](https://github.com/Xolarus-dev/SAMP)
 
 ## 🗺️ Roadmap
-- [ ] **Weeks 1–4:** C++ fundamentals (loops, functions, arrays, strings)
-- [ ] **Weeks 3–6:** pointers and memory, reading my own programs in a disassembler
-- [ ] **Weeks 6–10:** assembly basics, beginner crackme write-ups
-- [ ] **Weeks 10–13:** networking, a small client/server project with RakNet
+- [ ] **C++ fundamentals:** loops, functions, arrays, strings, bitwise operators
+- [ ] **Pointers and memory**, reading my own programs in a disassembler
+- [ ] **Assembly basics**, more crackmes with write-ups
+- [ ] **Networking:** a small client/server project with RakNet
 
 ## 📁 Projects
 - [SAMP](https://github.com/Xolarus-dev/SAMP): early Lua scripts (MoonLoader)
+- `reverse-writeups`: reverse engineering write-ups *(first one coming)*
 - `cpp-practice`: C++ exercises *(coming soon)*
-- `reverse-writeups`: reverse engineering write-ups *(coming soon)*
 
 ## 🧰 Tools
 <div align="center">
