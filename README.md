@@ -1,103 +1,156 @@
-<!-- <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:243B55,100:00D9FF&height=200&section=header&text=Xolarus&fontSize=70&fontColor=FFFFFF&fontAlignY=38&desc=Reverse%20Engineering%20%7C%20C%2B%2B%20%7C%20Low-Level%20Programming&descAlignY=60&descSize=16" width="100%" alt="Xolarus profile banner" /> </div> -->
+<div align="center">
 
-<div align="center"> <h1>Xolarus</h1> <h3>Reverse Engineering · C++ · Low-Level Programming</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,50:101B30,100:0077B6&height=220&section=header&text=XOLARUS&fontSize=72&fontColor=00D9FF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%2F%20REVERSE%20ENGINEERING%20%2F%20LOW-LEVEL%20RESEARCH&descSize=13&descAlignY=60&descColor=A9C7E8" width="100%" alt="Xolarus Cybersecurity Banner" />
 
-<p> <img src="https://img.shields.io/badge/Focus-Reverse%20Engineering-00D9FF?style=for-the-badge&logo=target&logoColor=white" alt="Focus: Reverse Engineering" /> <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Tool-Ghidra-B65CFF?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Ghidra" /> </p>
+Exploring systems. Understanding binaries. Studying security.
 
-<p> <em>Understanding how software works — one binary at a time.</em> </p>
+Cybersecurity · Reverse Engineering · Binary Analysis
 
-<p> <a href="#-about-me">About</a> • <a href="#-tech-stack">Tech Stack</a> • <a href="#-current-focus">Current Focus</a> • <a href="#-о-себе">Русская версия</a> </p> </div>
+<br/>
 
-👨‍💻 About Me
+<img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-00D9FF?style=for-the-badge&labelColor=080B12" /> <img src="https://img.shields.io/badge/REVERSE-ENGINEERING-168AAD?style=for-the-badge&labelColor=080B12" /> <img src="https://img.shields.io/badge/LOW--LEVEL-RESEARCH-5267DF?style=for-the-badge&labelColor=080B12" />
 
-I'm Xolarus, a developer focused on reverse engineering, low-level programming, and understanding software internals.
+</div>
 
-I have a foundation in C++ and continue to improve my programming skills while exploring assembly language, binary analysis, and the inner workings of compiled programs.
+01 / About Me
 
-I value technical depth, consistent learning, and understanding why things work — not just how to use them.
+I'm Xolarus, an aspiring cybersecurity researcher with a strong interest in low-level systems, reverse engineering, and the inner workings of software.
 
-🔬 Primary interest: Reverse engineering and binary analysis.
-💻 Main language: C++, with a focus on continuous improvement.
-🛠️ Primary tool: Ghidra.
-⚙️ Currently learning: Assembly language and low-level concepts.
-📖 Additional experience: Reading and working with Lua and Python scripts.
-My goal is to build a deeper understanding of software at the binary and machine-code level.
-🧰 Tech Stack
+My focus is on understanding how programs behave beneath the surface — from compiled binaries and assembly instructions to memory, execution flow, and software security.
+
+I'm continuously developing my C++ skills while studying the foundations of reverse engineering and binary analysis using Ghidra.
+
+I believe that understanding how systems work internally is essential to understanding how they can fail, be analyzed, and be secured.
+
+Primary field: Cybersecurity
+Technical focus: Reverse engineering and binary analysis
+Main programming language: C++
+Reverse engineering tool: Ghidra
+Currently studying: Assembly language and low-level concepts
+Additional experience: Reading and understanding Python and Lua scripts
+[+] Cybersecurity
+[+] Reverse Engineering
+[+] Binary Analysis
+[+] Assembly & Computer Architecture
+[+] C++ / Low-Level Programming
+
+[*] Status: Learning, researching, improving.
+
+02 / Research Interests
 
 <div align="center">
 
-<h3>Languages</h3>
+Domain	Focus
+🔬 Reverse Engineering	Understanding compiled programs and their internal logic
+🧩 Binary Analysis	Disassembly, decompilation, and program structure
+⚙️ Low-Level Security	Memory, execution flow, and system internals
+💻 Systems Programming	C++, machine-level concepts, and computer architecture
+🛡️ Security Research	Understanding vulnerabilities and defensive security concepts
+🧠 Assembly Language	Processor instructions, registers, and memory operations
+
+</div>
+
+These are areas of study and interest, not a claim of professional expertise in every domain.
+
+03 / Technical Arsenal
+
+<div align="center">
+
+Languages
 
 <img src="https://skillicons.dev/icons?i=cpp,python,lua&theme=dark" alt="C++, Python, Lua" />
 
-<h3>Tools & Environment</h3>
+Tools & Environment
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=dark" alt="Linux, Git, GitHub, VS Code" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Ghidra-Reverse%20Engineering-B65CFF?style=flat-square" alt="Ghidra" /> <img src="https://img.shields.io/badge/Assembly-Learning-555555?style=flat-square" alt="Assembly language" /> <img src="https://img.shields.io/badge/Static%20Analysis-Exploring-00D9FF?style=flat-square" alt="Static analysis" />
+<img src="https://img.shields.io/badge/Ghidra-Binary%20Analysis-00D9FF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Assembly-Currently%20Learning-7389AE?style=flat-square" /> <img src="https://img.shields.io/badge/C%2B%2B-Developing%20Skills-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 
 </div>
 
-🎯 Current Focus
-Reverse Engineering — exploring program structure, control flow, and compiled binaries.
-Assembly Language — learning instruction sets, registers, memory, and how high-level code translates into machine-level operations.
-C++ — strengthening fundamentals, improving code quality, and deepening my understanding of memory and low-level behavior.
-Binary Analysis — developing practical skills with Ghidra and learning to navigate disassembled and decompiled code.
-Scripting — improving my ability to read, understand, and work with existing Python and Lua scripts.
-🧠 Philosophy
-Understand the code.
-Question the assumptions.
-Trace the execution.
-Learn how it works beneath the surface.
+04 / Current Objectives
+Improve C++ proficiency and low-level programming fundamentals.
+Develop a stronger understanding of assembly and computer architecture.
+Practice static analysis and decompilation with Ghidra.
+Study executable formats and the structure of compiled programs.
+Explore memory behavior, calling conventions, and execution flow.
+Build practical cybersecurity projects and document technical findings.
+05 / Research Principles
+Understand before modifying.
+Analyze before concluding.
+Verify before trusting.
+Document what you discover.
 
 
-I believe that real progress comes from consistent practice, curiosity, and a willingness to investigate things beyond the surface level.
+I value technical depth over superficial complexity, reproducible findings over assumptions, and continuous learning over inflated titles.
 
-📊 GitHub Statistics
+My goal is to develop the skills needed to investigate software at a deeper level and understand security from the perspective of how systems actually operate.
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Xolarus&showicons=true&theme=tokyonight&hideborder=true&rankicon=github" alt="Xolarus GitHub statistics" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolarus&layout=compact&theme=tokyonight&hideborder=true" alt="Most used programming languages" /> <br/><br/> <img src="https://streak-stats.demolab.com?user=Xolarus&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" /> </div>
+06 / GitHub Activity
 
-🌐 Languages
-🇬🇧 English — profile version available below.
-🇷🇺 Русский — основной язык описания ниже.
+<div align="center">
 
-<details> <summary><strong>🇷🇺 Русская версия — О себе</strong></summary>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Xolarus&showicons=true&theme=tokyonight&hideborder=true&bgcolor=080B12&titlecolor=00D9FF&iconcolor=00D9FF&textcolor=C9D5E5&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xolarus&layout=compact&theme=tokyonight&hideborder=true&bgcolor=080B12&titlecolor=00D9FF&textcolor=C9D5E5" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Xolarus&theme=tokyonight&hide_border=true&background=080B12&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Contribution Streak" />
+
+</div>
+
+07 / Русская версия
+
+<details> <summary><strong>🇷🇺 Обо мне · Кибербезопасность и реверс-инжиниринг</strong></summary>
 
 <br/>
 
-👨‍💻 О себе
+Я — Xolarus, изучаю кибербезопасность с уклоном в реверс-инжиниринг, анализ бинарных файлов и низкоуровневое устройство программного обеспечения.
 
-Привет! Я Xolarus, изучаю реверс-инжиниринг, низкоуровневое программирование и внутреннее устройство программного обеспечения.
+Меня интересует то, что скрыто за привычным интерфейсом программы: машинные инструкции, структура исполняемых файлов, логика выполнения, работа памяти и внутренние механизмы программ.
 
-У меня есть база знаний по C++, и я продолжаю развиваться в этом направлении. Параллельно изучаю ассемблер, исследую устройство скомпилированных программ и осваиваю инструменты анализа бинарных файлов.
+Я продолжаю совершенствовать C++, изучаю ассемблер и практикуюсь в анализе программ с помощью Ghidra.
 
-Мне важно не просто использовать инструменты, а понимать, как работает программное обеспечение на более низком уровне.
+Для меня кибербезопасность — это не только использование инструментов, но и понимание того, как работают системы, почему возникают уязвимости и какие механизмы лежат в основе безопасности программного обеспечения.
 
-🔬 Основное направление: реверс-инжиниринг и анализ бинарных файлов.
-💻 Основной язык: C++, продолжаю совершенствовать навыки.
-🛠️ Основной инструмент: Ghidra.
-⚙️ В процессе изучения: ассемблер и низкоуровневые концепции.
-📖 Дополнительный опыт: чтение и разбор скриптов на Lua и Python.
-Моя цель — глубже понимать устройство программ, машинный код и принципы работы скомпилированного ПО.
-🎯 Текущие направления развития
-Reverse Engineering — изучение структуры программ, логики выполнения и анализа бинарных файлов.
-Assembly — изучение инструкций процессора, регистров, памяти и связи между исходным кодом и машинными инструкциями.
-C++ — укрепление фундаментальных знаний, работа с памятью и развитие навыков низкоуровневого программирования.
-Ghidra — практика анализа дизассемблированного и декомпилированного кода.
-Python и Lua — развитие навыков чтения, понимания и разбора существующих скриптов.
-🧠 Мой подход
-Разбираться в коде.
-Проверять предположения.
-Изучать выполнение программы.
-Понимать, что происходит под капотом.
+Направления интереса
+Реверс-инжиниринг — исследование внутренней логики скомпилированных программ.
+Анализ бинарных файлов — дизассемблирование, декомпиляция и изучение структуры исполняемых файлов.
+Низкоуровневая безопасность — работа памяти, поток выполнения и внутреннее устройство систем.
+Архитектура компьютеров — процессорные инструкции, регистры, вызовы функций и взаимодействие программ с системой.
+Исследование безопасности ПО — изучение принципов возникновения уязвимостей и методов защиты.
+Системное программирование — развитие навыков C++ и понимания машинного уровня.
+Текущие цели
+Углублять знания C++ и низкоуровневого программирования.
+Изучать ассемблер и архитектуру процессоров.
+Осваивать анализ и декомпиляцию программ в Ghidra.
+Разбираться в форматах исполняемых файлов.
+Изучать память, соглашения о вызовах и поток выполнения программ.
+Создавать собственные учебные проекты в области кибербезопасности и документировать результаты исследований.
+Мой подход
+Сначала понять — потом изменять.
+Сначала исследовать — потом делать выводы.
+Проверять предположения фактами.
+Документировать результаты.
 
 
-Я считаю, что настоящий прогресс строится на регулярной практике, любознательности и стремлении разобраться в деталях, которые не видны на первый взгляд.
+Моя цель — последовательно развивать технические навыки и научиться глубоко исследовать программное обеспечение, понимая его устройство и механизмы безопасности.
 
 </details>
 
-<div align="center"> Less guessing. More understanding. Always learning. </div>
+<div align="center">
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=Xolarus&style=flat-square&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" /> </div>
+<img src="https://komarev.com/ghpvc/?username=Xolarus&style=for-the-badge&color=0077B6&label=PROFILE+VISITS" alt="Profile Visits" />
+
+<br/><br/>
+
+SECURITY THROUGH UNDERSTANDING.
+
+<br/>
+
+Learn deeply. Analyze carefully. Build responsibly.
+
+</div>
